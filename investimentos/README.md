@@ -312,3 +312,48 @@ Basta ter uma conta em uma corretora habilitada que você já pode comprar seu t
 ![Tesouro Direto - Taxas e tributos](./tesouro-direto-taxas-tributos.png)
 
 ## LCI E LCA
+
+## Ações
+
+* [Como começar a investir em ações com pouco dinheiro](https://www.youtube.com/watch?v=KsTx10ikbdc)
+
+"`Não dá para investir sem conhecimento.`"
+
+"`O problema é que não existe uma bala de prata para investir.`"
+
+### Passos para investir
+
+1 - Fundo de emergência
+
+Antes de entrar, invista 6x o valor do seu custo mensal. Exemplo: se ganho R$ 4.000,00 líquido por mês, isso dá: 6 x 4.000 = R$ 24.000.
+
+2 - Fundo de ações
+
+Ao invés de escolher uma ação, invista em um fundo de ações. Exemplo:
+
+- Você tem pouco dinheiro, por exemplo, R$ 100,00.
+Mas você deixou R$ 10,00 em custo de taxas, ou seja, de 10% do seu valor.
+
+- Você delega o seu processo decisório. O trabalho aqui, é escolher uma corretora, e dentro dessa corretora, escolher algum fundo de ações para investir.
+
+- Quando você tem menos patrimônio, é melhor investir por taxas variáveis. Por exemplo, você vai investir R$ 100,00. Se tivermos uma taxa fixa de R$ 10,00, você irá pagar 10% do seu patrimônio. Se for uma taxa variável, de 1%, você pagaria R$ 1,00. Se fosse R$ 1.000.000, 1% seria R$ 10.000!
+
+3 - Fundos de Índices - ETFs
+
+**Como funciona?**
+
+Quando a IBOVESPA subiu 10%, caiu 5%... estamos falando do índice da IBOVESPA. BOVA11
+
+No BOVA11 você vai entender como funciona o esquema de venda, compra de ações. Ou seja, o mecanismo.
+
+Você não está escolhendo a melhor carteira. No BOVA11, você está "investindo em todas as ações do Brasil".
+
+O objetivo é entender o mecanismo.
+
+Aluguel de ações. Entenda depois.
+
+4 - Investir diretamente
+
+SÓ VÁ PARA ESSE, DEPOIS DE PASSAR POR TODOS OS OUTROS.
+
+"Quem entrar agora, deve olhar a longo prazo."
