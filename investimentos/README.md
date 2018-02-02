@@ -311,7 +311,172 @@ Basta ter uma conta em uma corretora habilitada que você já pode comprar seu t
 
 ![Tesouro Direto - Taxas e tributos](./tesouro-direto-taxas-tributos.png)
 
-## LCI E LCA
+## LCI E LCA (Letra de Crédito Imobiliário e Letra de Crédito de Agronegócio)
+
+São  títulos de renda fxa, emitidos por bancos e  instituições fnanceiras,  ligados a empréstimos para fnanciar algum dos dois setores (imobiliário e agronegócio). Eles possuem algumas características que costumam atrair muitos investidores:
+
+* O que são as Letras de Crédito
+* Valores e prazos de aplicações
+* Custos e tributos
+* E outras informações
+
+### LCI - Letra de Crédito Imobiliário
+
+#### Como funciona?
+
+O título de renda fxa, como foi explicado, é emitido por uma instituição fnanceira e é lastreado por empréstimos imobiliários. Ou seja, quando alguém deseja fazer um fnanciamento em um determinado banco, a fonte desse empréstimo será o dinheiro investido por outros em letras de crédito.
+
+**Na prática:**
+Você investe seu dinheiro em uma letra de crédito imobiliário de um banco ou uma  corretora. Eles, por sua vez, emprestam esse recurso para alguma atividade de fim imobiliário, recebem esse recurso corrigido por uma taxa, e te retornam, após certo período, seu investimento acrescido por juros.
+
+#### Risco?
+
+É o mesmo de quase todos os outros. O seu dinheiro é emprestado para o banco, e não diretamente para o financiamento imbiliário. O seu investimento está assegurado pelo FGC.
+
+### LCA - Letra de Crédito de Agronegócio
+
+#### Como funciona?
+
+Estas Letras de Crédito do Agronegócio são emitidas por bancos com o objetivo de juntar recursos a serem emprestados para empresas e produtores rurais, constituindo, desta forma, um importantíssimo agente para economia do país.
+Com a emissão desses títulos, o mercado aumenta a disponibilidade de crédito para agentes de todos os setores agropecuários. Você fnancia os bancos que, por sua vez, fnanciam os produtores rurais, responsáveis por girar o mercado brasileiro: a fnalidade é sustentar atividades atreladas à produção, comercialização, benefciamento e industrialização de insumos agropecuários e de todo agronegócio. Em termos práticos, as letras de crédito são bem similares entre si.
+
+### Tipos de rentabilidade
+
+Tal como outros títulos de renda fxa, as Letras de Crédito estão disponíveis em diferentes modalidades: **Prefxadas, Pós-fxadas e Híbridas**.
+
+|1. PREFIXADOS (Saiba sua rentabilidade) | 2. PÓS-FIXADOS (Sobe e desce da CDI) | 3. HÍBRIDOS (Rentabilidade Mista) |
+|-----------------|-------------------|----------------|
+|Se a Letra de Crédito for prefxada, isso signifca que no momento da compra o banco já disponibiliza quanto será a rentabilidade e você sabe exatamente quanto receberá no vencimento do título. Ela é atraente quando os cenários econômicos apontam que a taxa ofertada é maior que a previsão dos indexadores das outras duas modalidades. | O  título pós-fxado é sempre  indexado a alguma  taxa de  juros. As mais comuns  são as Letras de Crédito  indexadas ao CDI  - Certifcado de Depósito Interbancário. Essa taxa, geralmente, fca bem próxima à Selic - taxa de juros básica da economia - que é outro indexador (menos comum) dos títulos. Dessa forma, a rentabilidade da sua LCI ou LCA pós-fxada acompanhará as variações desses indexadores, podendo, dessa forma, oferecer retornos mais atrativos, principalmente em cenários que apontam a alta dos juros. | Para essa modalidade, os bancos retornarão ao investidor uma taxa estabelecida no momento da compra, acrescido de um valor indexado a uma taxa, como o IPCA, por exemplo.
+É válido lembrar que essa modalidade é menos comum na LCA e, quando é ofertada, seu prazo será um pouco maior que as outras duas.
+
+#### Qual investir?
+
+Qual é melhor? Uma LCI híbrida ou uma LCA pós-fxada?
+
+Pouco difere, em termos práticos, para o investidor investir em uma LCI ou LCA: o que determina qual será a melhor opção é o momento da compra casado com seus
+próprios objetivos. As rentabilidades são analisáveis e a escolha pela melhor opção é possível com as informações certas.
+
+Como foi dito anteriormente, o risco de crédito desses títulos é baixíssimo, o que não foi falado foi o risco de fazer a decisão errada. Quando opta por qualquer investimento, você deixa de escolher outras inúmeras opções, o risco está aí: teria algum investimento em que poderia estar ganhando mais? Quem seria a melhor pessoa para responder a essa pergunta? Um especialista, é claro! É por esse motivo que sempre recomendamos que tenha contato com um
+profssional da área no momento de escolha. Evite arrependimentos!
+
+#### Como investir de forma consciente?
+
+![LCI/LCIA - Como investir - parte 1](./lci-lca-p1.png)
+
+![LCI/LCIA - Como investir - parte 2](./lci-lca-p2.png)
+
+#### Resumindo
+
+Como todo investimento, a LCI e a LCA possuem prós e contras para quem deseja adquiri-las, e nós resumimos para facilitar para você. Como um investidor consciente, você deve saber todos os seguintes pontos para fazer a decisão certa.
+
+#### Prós
+
+* Possuem boas oportunidades de rentabilidade. Vários títulos são ofertados em diferentes  instituições fnanceiras, basta encontrar alguma com grande variedade para aproveitar as melhores taxas.
+* Investimento seguro. Além de apresentar baixo risco, é garantido pelo FGC.
+* **São investimentos isentos de Imposto de Renda!**
+
+#### Contras
+
+* Como visto anteriormente, o preço mínimo inicial de investimento das Letras de Crédito não é tão acessível. Alguns investidores desejam começar por valores menores e por isso seguem a linha do Tesouro Direto, por exemplo.
+* Estes títulos, diferentemente do CDB e dos papéis emitidos pelo Tesouro, não servem como Margem de garantia para a Bolsa de Valores. Isto é, você não consegue utilizar a LCI e a LCA para investir em ações. Esse ponto é crucial para os investidores que procuram maior rentabilidade na hora que estão montando uma carteira de investimento.
+
+
+#### Ressalva
+
+![LCI/LCA - Comparação com CDI](./lci-lca-p3.png)
+
+
+## LC (Letra de Câmbio)
+
+### O que é?
+
+Para começar, saiba que a LC, ou Letra de Câmbio, é um exemplo de título de Renda Fixa. Eles são muito procurados por alguns detalhes.
+
+Você já deve ter entendido como a grande maioria de títulos funciona: você, in-
+vestidor,  “empresta” seu dinheiro para alguma  instituição e ela  te  retorna seu  investimento acrescido a uma determinada taxa de juros. Não é diferente para as Letras de Câmbio.
+
+### Como funciona?
+
+Funciona da seguinte maneira: estes títulos são emitidos por Financeiras, isto é, sociedades de crédito, investimento e fnanciamento, e assim elas podem dar segmento às suas próprias atividades. Você deve estar se perguntando o que são exatamente estas instituições. A forma mais fácil de explicá-las é dando exemplos: **Crefsa e Fininvest.**
+
+**As Financeiras emitem as LC com a fnalidade de gerar seu próprio fnanciamento, recomprando-as a um valor maior, depois de determinado tempo.**
+
+Muitos investidores não sabem ao certo quanto tempo necessitam permanecer com o título para eles gerarem bons retornos. Por isso, achamos válido falar a respeito dos seus prazos.
+
+### Quanto tempo a LC leva para retornar boas taxas?
+
+Letras de Câmbio são oferecidas sob diversas maneiras. Dessa forma, possui vários prazos diferentes: desde títulos com liquidez diária até aqueles que possuem carência atrelada ao vencimento, isto é, impossibilidade de liquidação durante certo período. Para esse investimento, não há um prazo mínimo. Entretanto, é válido lembrar que quanto maior o tempo de aplicação, maior será o retorno, seja por questões de taxas ou pela tributação, que diminui gradativamente ao longo do período (este ponto será detalhado quando explicarmos exatamente os custos do título).
+Para aplicar em Letra de Câmbio, como em qualquer outra forma de inves-
+timento, é exigido do investidor planejamento fnanceiro e atenção! Cremos que fcou claro que o prazo das aplicações em Letra de Câmbio não são um problema para quem opta por elas. Mas investir em uma instituição que está constantemente exposta a chances de inadimplência traz algum risco ao investidor?
+
+### Riscos?
+
+Mesmo que as credoras de crédito quebrem, o dinheiro é garanto pelo FGC.
+
+### Valor mínimo
+
+Esse é um ponto que a LC perde para alguns outros títulos de renda fxa já descritos: o capital exigido é um pouco elevado para retornar boas taxas. **De modo geral, a aplicação mínima será de R$ 30.000,00, sendo que as melhores taxas são pagas a partir de valores em torno de R$ 50.000,00**.
+
+### Tipos de rentabilidade
+
+Tal como outros títulos de renda fxa, as Letras de Câmbio estão disponíveis em diferentes modalidades: **Prefxadas, Pós-fxadas e Híbridas**.
+
+
+|1. PREFIXADOS (Saiba sua rentabilidade) | 2. PÓS-FIXADOS (Sobe e desce da CDI) | 3. HÍBRIDOS (Rentabilidade Mista) |
+|-----------------|-------------------|----------------|
+|Se a Letra de Crédito for prefxada, isso signifca que no momento da compra o banco já disponibiliza quanto será a rentabilidade e você sabe exatamente quanto receberá no vencimento do título. | No momento da aplicação você não sabe ao certo a rentabilidade, é apenas uma estimativa do resgate futuro. Nesta modalidade, seu dinheiro estará vinculado a um indexador, como o famoso CDI.  | A última é, como seu nome  já mostra, uma mistura de ambas modalidades: sua rentabilidade é atrelada a um indexador, como o IPCA, somado a uma taxa estabelecida da compra do título.
+
+**Cada uma delas é melhor para determinado cenário econômico do país e existem profssionais que trabalham exatamente para te guiar para a melhor opção. Então, na hora da decisão, não deixe de contar com um consultor.**
+
+### Tributação
+
+O Imposto de Renda é recolhido na fonte. Suas respectivas alíquotas seguem aquele mesmo esquema dos outros títulos de renda fxa:
+
+![LCI/LCA - Tributação](./lci-lca-tributacao.png)
+
+### Exemplo de rentabilidade
+
+Para entender como seria o retorno de uma Letra de Câmbio, veja o exemplo a seguir: 
+
+Tome como parâmetro um investimento em uma LC que retorna 110% do CDI, com essa taxa a 14,13% ao ano. Supondo que aplicará um montante de R$ 30.000,00 e pretende resgatar após um ano de investimento:
+
+![LCI/LCA - Exemplo de rendimento](./lci-lca-exemplo.png)
+
+O mesmo valor aplicado na poupança, seguindo uma taxa normal de 8% ao ano, traria ao investidor R$2.400,00, o que representa apenas 66% do retorno proporcionado pela LC tributado com a maior das alíquotas de IR.
+
+---- 
+
+Entretanto, existem ofertas de CDB no mercado fnanceiro que ultrapassam essas 
+taxas, chegando até 116% do CDI. Então, antes de fazer qualquer escolha sobre 
+onde irá investir, tenha certeza que estudou todas as modalidades possíveis, e 
+seus respectivos prós e contras.
+
+
+### Vantagens e desvantagens
+
+Como você viu ao longo do capítulo, a Letra de Câmbio possui alguns pontos bem 
+interessantes para o investidor e também algumas desvantagens. Para resumir: 
+
+**Vantagens**
+
+* O investimento possui baixo risco;
+* Sua rentabilidade é signifcativamente maior que a da poupança;
+* Possui prazos diversos, incluindo a liquidez diária;
+* Está  presente  com  rentabilidades  pós  e  prefxadas,  além  da  híbrida, adequando-se ao cenário.
+
+**Desvantagens**
+
+* Diferentemente das LCI e LCA, ela sofre tributação de IR;
+* Investimento mínimo elevado (de R$ 30 mil a R$ 50 mil);
+* Pode possuir carência atrelada ao vencimento;
+* Não pode ser utilizada como margem de garantia para investir na Bolsa 
+de Valores.
+
+![LCI/LCA - Dicas](./lci-lca-dica.png)
+
+
+## Debêntures
+
 
 ## Ações
 
